@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Infusing Computing Webseries
-email: wiobyrne@gmail.com
-description: "The Infusing Computing Webseries explores the opportunities to embed computational thinking (CT) into middle school and high school classrooms."
-subtitle: "A discussion from the intersection of computational thinking & the content areas."
+title: Ferret Voice Podcast
+email: voiceferretcom@gmail.com
+description: "All information about keeping pet ferrets. Ferrets are incredibly potential pet, If you're considering choosing a ferret, learn more about ferrets care needs, including what you'll need and how to keep your ferret healthy etc. more information check out https://ferretvoice.com"
+subtitle: ""
 lang: en-us
-author: Ian O'Byrne
-copyright: "CC-BY 4.0"
-baseurl: "/infusing-computing-pod" # the subpath of your site, e.g. /blog
-url: "https://wiobyrne.github.io" # the base hostname & protocol for your site
-twitter_username: wiobyrne
-github_username:  wiobyrne
+author: Harry Rowland
+copyright: "&#xA9; 2021"
+baseurl: "/podcast" # the subpath of your site, e.g. /blog
+url: "https://noehale.github.io" # the base hostname & protocol for your site
+twitter_username: voiceferret
+github_username: voiceferret
 
 permalink: /:year/:title.html
 
