@@ -20,10 +20,10 @@
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/itunes.jpg" />
-		<itunes:category text="Technology" />
-		<itunes:category text="Society &amp; Culture" />
-        <itunes:category text="Education">
-            <itunes:category text="Educational Technology" />
+		<itunes:category text="Kids &amp; Family" />
+		<itunes:category text="Pets &amp; Animals" />
+        <itunes:category text="Kids &amp; Family">
+            <itunes:category text="Pets &amp; Animals" />
         </itunes:category> 
         <itunes:explicit>no</itunes:explicit>
 		
