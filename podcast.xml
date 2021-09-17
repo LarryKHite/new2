@@ -42,6 +42,7 @@
             <description>{{ post.description | xml_escape }}</description>
             <itunes:keywords>{{ post.keywords }}</itunes:keywords>
             <itunes:block>{{ post.block }}</itunes:block>
+	    <link>https://ferretvoice.com</link>	
 		</item>
 {% endfor %}
 	</channel>
