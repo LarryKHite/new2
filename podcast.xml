@@ -5,7 +5,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
 
     <channel>
-		<atom:link href="https://noehale.github.io/podcast/podcast.rss" rel="self" type="application/rss+xml" />
+		<atom:link href="https://bestdailypodcast.xyz/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>{{ site.title }}</title>
 		<link>https://ferretvoice.com</link>
 		<language>{{ site.lang }}</language>
@@ -19,7 +19,7 @@
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-        <itunes:image href="{{ site.url }}{{ site.baseurl }}/podcast/images/itunes.jpg" />
+        <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/itunes.jpg" />
 		<itunes:category text="Kids &amp; Family" />
 		<itunes:category text="Pets &amp; Animals" />
         <itunes:category text="Kids &amp; Family">
@@ -33,7 +33,7 @@
             <itunes:author>{{ site.author }}</itunes:author>
             <itunes:subtitle>{{ site.title | xml_escape }}: {{ post.title | xml_escape }}</itunes:subtitle>
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
-            <itunes:image href="{{ site.url }}/podcast/images/itunes.jpg" />
+            <itunes:image href="{{ site.url }}/images/itunes.jpg" />
             <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
             <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
