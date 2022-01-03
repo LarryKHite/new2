@@ -13,8 +13,8 @@ subtitle: ""
 lang: en-us
 author: Harry Rowland
 copyright: "&#xA9; 2021"
-baseurl: "/podcast" # the subpath of your site, e.g. /blog
-url: "https://noehale.github.io" # the base hostname & protocol for your site
+baseurl: "/new" # the subpath of your site, e.g. /blog
+url: "https://bestdailypodcast.xyz" # the base hostname & protocol for your site
 twitter_username: voiceferret
 github_username: voiceferret
 
