@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Ferret Voice Podcast"
+title: "About Best Daily Podcast"
 permalink: /about
 ---
 
