@@ -11,12 +11,12 @@ email: voiceferretcom@gmail.com
 description: "All information about keeping pet ferrets. Ferrets are incredibly potential pet, If you're considering choosing a ferret, learn more about ferrets care needs, including what you'll need and how to keep your ferret healthy etc. more information check out https://ferretvoice.com"
 subtitle: ""
 lang: en-us
-author: Harry Rowland
-copyright: "&#xA9; 2021"
+author: carper
+copyright: "&#xA9; 2022"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://bestdailypodcast.xyz" # the base hostname & protocol for your site
-twitter_username: voiceferret
-github_username: voiceferret
+twitter_username: 
+github_username: 
 
 permalink: /:year/:title.html
 
