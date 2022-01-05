@@ -40,8 +40,7 @@
             <itunes:explicit>{{ post.explicit }}</itunes:explicit>
             <description>{{ post.description | xml_escape }}</description>
             <itunes:keywords>{{ post.keywords }}</itunes:keywords>
-            <itunes:block>{{ post.block }}</itunes:block>
-	    <link>{{ post.link }}</link>	
+            <itunes:block>{{ post.block }}</itunes:block>	
 		</item>
 {% endfor %}
 	</channel>
