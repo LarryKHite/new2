@@ -1,2 +1,1 @@
 ## readme
-Welcome to the Your Podcast. Here you can find some of the most interesting podcasts for entrepreneurs, business owners, and professionals. Stay tuned for great content that will empower you.
